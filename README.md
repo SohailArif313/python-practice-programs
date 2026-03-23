@@ -6,7 +6,7 @@ A collection of Python practice programs and problem-solving exercises.
 |-----|--------|-------------|-------------|
 | 01  | Operators, If-Else, Loops, 15 beginner problems | [day01_operators_ifelse_loops.ipynb](day01_operators_ifelse_loops.ipynb) | 14 Mar 2026 |
 | 02  | Nested Loops, Patterns, String Logic, Type Casting | [day02_logic_patterns.py](day02_pattern_and_string_logic.ipynb) | 18 Mar 2026 |
-| 03  | Lists, Nested Lists, Matrix Operations, String Handling | [session-4-task.ipynb](session-4-task.ipynb) | 23 Mar 2026 |
+| 03  | Lists, Nested Lists, Matrix Operations, String Handling | [session-4-task.ipynb](day03_list_matrix_logic.ipynb) | 23 Mar 2026 |
 
 ---
 
